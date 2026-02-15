@@ -1,0 +1,926 @@
+[
+  {
+    "nom": "AKO-WILL Soudure",
+    "ville": "Cotonou",
+    "contact": "AKODEKOU Wilfrid",
+    "tel": "97396495"
+  },
+  {
+    "nom": "AMTELB",
+    "ville": "Cotonou",
+    "contact": "ADJINDA Antoine",
+    "tel": "95119641"
+  },
+  {
+    "nom": "ANM",
+    "ville": "Parakou",
+    "contact": "AFFANOU Sylvain",
+    "tel": "96554973"
+  },
+  {
+    "nom": "ARIEB",
+    "ville": "Bohicon",
+    "contact": "WLETCHE Abel",
+    "tel": "95854626"
+  },
+  {
+    "nom": "ARIEB",
+    "ville": "Bohicon",
+    "contact": "WLETCHE Abel",
+    "tel": "96068571"
+  },
+  {
+    "nom": "ASECNA",
+    "ville": "Cotonou",
+    "contact": "TOLLO Wilfrid",
+    "tel": "96477922  61468343"
+  },
+  {
+    "nom": "AUTOMES Garage",
+    "ville": "Cotonou",
+    "contact": "DJOSSOU Meismin",
+    "tel": "97878041"
+  },
+  {
+    "nom": "BM",
+    "ville": "Cotonou",
+    "contact": "MEHINTO Bertin",
+    "tel": "97149019"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "SEWA Joachim",
+    "tel": "22411645"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "SEWA Joachim",
+    "tel": "22411645"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "SEWA Joachim",
+    "tel": "22411645"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "SEWA Joachim",
+    "tel": "22411530"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "SEWA Joachim",
+    "tel": "22411645"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "MEDESSI Maurice",
+    "tel": "22411530"
+  },
+  {
+    "nom": "CBT",
+    "ville": "Lokossa",
+    "contact": "MEDESSI Maurice",
+    "tel": "22411530"
+  },
+  {
+    "nom": "CEB",
+    "ville": "Lomé",
+    "contact": "CHABI SIKA Karimou",
+    "tel": "22215795  22216132"
+  },
+  {
+    "nom": "CEB",
+    "ville": "Cotonou",
+    "contact": "AGOSSOU Delphin",
+    "tel": "22216132  22215795"
+  },
+  {
+    "nom": "CEB Bénin",
+    "ville": "Parakou",
+    "contact": "BOCO Franck",
+    "tel": "22216132"
+  },
+  {
+    "nom": "CEMA",
+    "ville": "Cotonou",
+    "contact": "CODJIA Alban",
+    "tel": "97535232"
+  },
+  {
+    "nom": "Centre de Perfectionnement du Personnel d'Entreprise",
+    "ville": "Akpakpa",
+    "contact": "ZOUNDJIHEKPON Richard",
+    "tel": "63826228  62538200"
+  },
+  {
+    "nom": "CETEC Sarl",
+    "ville": "Fidjrossè",
+    "contact": "CODO Inex",
+    "tel": "97972534"
+  },
+  {
+    "nom": "CETEC Sarl",
+    "ville": "Cotonou",
+    "contact": "CODO Inex",
+    "tel": "97972534"
+  },
+  {
+    "nom": "CETEC Sarl",
+    "ville": "Cotonou",
+    "contact": "CODO Inex",
+    "tel": "97972534"
+  },
+  {
+    "nom": "CFL",
+    "ville": "Natitingou",
+    "contact": "ADIMI Michel",
+    "tel": "97226599"
+  },
+  {
+    "nom": "CGTS",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "CHD-B/A",
+    "ville": "Parakou",
+    "contact": "MEGNIGBETO Virgile",
+    "tel": "97418683"
+  },
+  {
+    "nom": "CHUD-B",
+    "ville": "Parakou",
+    "contact": "BONON Josias",
+    "tel": "97418683"
+  },
+  {
+    "nom": "CHUD-OP",
+    "ville": "Porto-Novo",
+    "contact": "KIKI Romuald",
+    "tel": "66278702"
+  },
+  {
+    "nom": "CHUD-OP",
+    "ville": "Porto-Novo",
+    "contact": "KIKI Romuald",
+    "tel": "67278702"
+  },
+  {
+    "nom": "CIIR",
+    "ville": "Porto-Novo",
+    "contact": "MICHDJEHOUN Damien",
+    "tel": "97682972"
+  },
+  {
+    "nom": "CIM Bénin SA",
+    "ville": "Sèkandji",
+    "contact": "ECLOU Evariste",
+    "tel": "95955566"
+  },
+  {
+    "nom": "CIM Bénin SA",
+    "ville": "Akpakpa",
+    "contact": "ASSOGBA Arnaud",
+    "tel": "arnaud.assogba@hafrica.com"
+  },
+  {
+    "nom": "CIM Bénin SA",
+    "ville": "Cotonou",
+    "contact": "GAHOU Gilbert",
+    "tel": "21330732"
+  },
+  {
+    "nom": "CIMBENIN",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "CITAF",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "CITAF",
+    "ville": "yêdoko",
+    "contact": "ASSOGBA",
+    "tel": "97493899"
+  },
+  {
+    "nom": "CITAF",
+    "ville": "Vêdoko",
+    "contact": "ASSOGBA",
+    "tel": "97493899"
+  },
+  {
+    "nom": "Climafrique",
+    "ville": "Porto-Novo",
+    "contact": "MIGAN Richard",
+    "tel": "97489252"
+  },
+  {
+    "nom": "Climafrique",
+    "ville": "Porto-Novo",
+    "contact": "MIGAN Richard",
+    "tel": "97489252"
+  },
+  {
+    "nom": "CNHU-HKM",
+    "ville": "Cotonou",
+    "contact": "OTTA Franck",
+    "tel": "97070209"
+  },
+  {
+    "nom": "CODA-Bénin",
+    "ville": "Ikpilè",
+    "contact": "HOUNSA Marcelin",
+    "tel": "97480239"
+  },
+  {
+    "nom": "Communauté Electrique du Bénin",
+    "ville": "Nangbéto",
+    "contact": "Alaka Bama Bitako",
+    "tel": "22822216132"
+  },
+  {
+    "nom": "Complexe Orageux d'Agonny",
+    "ville": "Porto-Novo",
+    "contact": "HOUNSA Marcelin",
+    "tel": "96323264"
+  },
+  {
+    "nom": "Contrelec",
+    "ville": "Calavi",
+    "contact": "ADJOVI",
+    "tel": "94017000"
+  },
+  {
+    "nom": "CTREI",
+    "ville": "Parakou",
+    "contact": "KIKI Simplice",
+    "tel": "95459894"
+  },
+  {
+    "nom": "DELTA-TETA",
+    "ville": "Abomey-Calavi",
+    "contact": "YEDJANLOGNON Félix",
+    "tel": "97365659"
+  },
+  {
+    "nom": "DELTA-TETA Sarl",
+    "ville": "Calavi",
+    "contact": "YEDJANLOGNON Félix",
+    "tel": "90913778  95819191"
+  },
+  {
+    "nom": "DIDOX Yelian",
+    "ville": "Abomey-Calavi",
+    "contact": "AHOYO Bénoit",
+    "tel": "91421445"
+  },
+  {
+    "nom": "DOS'FOST Technology",
+    "ville": "Lokossa",
+    "contact": "DOSSOU Faustin",
+    "tel": "97856394"
+  },
+  {
+    "nom": "DPMEER",
+    "ville": "Cotonou",
+    "contact": "AGOSSOU Herman",
+    "tel": "96011694"
+  },
+  {
+    "nom": "ETBB",
+    "ville": "Porto-Novo",
+    "contact": "AMOUSSOU Marc",
+    "tel": "95855820"
+  },
+  {
+    "nom": "Ets EPHPHATA",
+    "ville": "Pobè",
+    "contact": "HOUNSINOU Odilon",
+    "tel": "97589174  95146609"
+  },
+  {
+    "nom": "Ets Germain et Fils Garage",
+    "ville": "Kétou",
+    "contact": "OWOLABI Germain",
+    "tel": "95710659"
+  },
+  {
+    "nom": "Ets Lumière Divine",
+    "ville": "Bohicon",
+    "contact": "AGONVONON Christian",
+    "tel": "97765033"
+  },
+  {
+    "nom": "Ets MBS",
+    "ville": "Tori",
+    "contact": "HOUNDEKPONDJI Germain",
+    "tel": "97152620"
+  },
+  {
+    "nom": "Ets MBS",
+    "ville": "Tori",
+    "contact": "HOUNDEKPONDJI Germain",
+    "tel": "97152620"
+  },
+  {
+    "nom": "Ets MBS",
+    "ville": "Tori",
+    "contact": "HOUNDEKPONDJI Germain",
+    "tel": "97152620"
+  },
+  {
+    "nom": "Ets MBS",
+    "ville": "Tori",
+    "contact": "HOUNDEKPONDJI Germain",
+    "tel": "97152620"
+  },
+  {
+    "nom": "Ets OLORUNWA Soudure",
+    "ville": "Pobè",
+    "contact": "OMOLEKAN W.",
+    "tel": "96230739"
+  },
+  {
+    "nom": "FLUDOR CAJOU",
+    "ville": "Bohicon",
+    "contact": "AKYO Raoul",
+    "tel": "95429073"
+  },
+  {
+    "nom": "Frigec Bénin",
+    "ville": "Cotonou",
+    "contact": "ASSANKPON Corasse",
+    "tel": "97887325"
+  },
+  {
+    "nom": "Garage AGBOHESSOU",
+    "ville": "Abomey-Calavi",
+    "contact": "AGBOHESSOU Anicet",
+    "tel": "95977746"
+  },
+  {
+    "nom": "Garage Américain Sarl",
+    "ville": "Godomey",
+    "contact": "YACOUBOU Issaka",
+    "tel": "61143307  97751238"
+  },
+  {
+    "nom": "GARAGE GAKONOU",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "Garage Municipal de Lokossa",
+    "ville": "Lokossa",
+    "contact": "LOKO Antoine",
+    "tel": "94024311"
+  },
+  {
+    "nom": "GARAGE STEM",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "GEMADE",
+    "ville": "Abomey-Calavi",
+    "contact": "IBIKOUNLE Adjibadé",
+    "tel": "96101357"
+  },
+  {
+    "nom": "GNC Sarl",
+    "ville": "MAEC",
+    "contact": "KPOGBA Charles",
+    "tel": "96239759"
+  },
+  {
+    "nom": "GNC Sarl",
+    "ville": "MAEC",
+    "contact": "KPOGBA Charles",
+    "tel": "96238759"
+  },
+  {
+    "nom": "GNC Sarl",
+    "ville": "Cotonou",
+    "contact": "KPOGBA Charles",
+    "tel": "96238759"
+  },
+  {
+    "nom": "GNC Sarl",
+    "ville": "Cotonou",
+    "contact": "KPOGBA Charles",
+    "tel": "97742222"
+  },
+  {
+    "nom": "Gré-Garage",
+    "ville": "Bohicon",
+    "contact": "SENOU Grégoire",
+    "tel": "95284013"
+  },
+  {
+    "nom": "GTE",
+    "ville": "Cotonou",
+    "contact": "DADJRO Jonas",
+    "tel": "96153710"
+  },
+  {
+    "nom": "GTE",
+    "ville": "Cotonou",
+    "contact": "DADJRO Jonas",
+    "tel": "96153710"
+  },
+  {
+    "nom": "Hôpital de Zone de Covè",
+    "ville": "Covè",
+    "contact": "BALOITCHA Luc",
+    "tel": "97389091"
+  },
+  {
+    "nom": "IBP SARL",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "IBP Sarl",
+    "ville": "EKPE",
+    "contact": "LANDE Justin",
+    "tel": "95353185"
+  },
+  {
+    "nom": "IMETE-BTP",
+    "ville": "Cotonou",
+    "contact": "DOVI Juste",
+    "tel": "96467979"
+  },
+  {
+    "nom": "INGEMEC",
+    "ville": "Tokpota",
+    "contact": "DJIDEKONDE",
+    "tel": "97563209"
+  },
+  {
+    "nom": "INGEMEC",
+    "ville": "Tokpota",
+    "contact": "DJIDEKONDE",
+    "tel": "97563209"
+  },
+  {
+    "nom": "INGEMEC",
+    "ville": "Porto-Novo",
+    "contact": "KPAMEGAN Yanick",
+    "tel": "97563209"
+  },
+  {
+    "nom": "ISMSAT Energy Sarl",
+    "ville": "Akpakpa",
+    "contact": "HOUNKPE Isaac",
+    "tel": "64536565  97147598"
+  },
+  {
+    "nom": "ISMSAT Energy Sarl",
+    "ville": "Akpakpa",
+    "contact": "HOUNKPE Isaac",
+    "tel": "64536565"
+  },
+  {
+    "nom": "ITC",
+    "ville": "Cotonou",
+    "contact": "HOUESSOU Edgard",
+    "tel": "97521703"
+  },
+  {
+    "nom": "JR GARAGE",
+    "ville": "Cotonou",
+    "contact": "RODRIGUEZ Napomucino",
+    "tel": "97606227"
+  },
+  {
+    "nom": "LARRYCE-BTP",
+    "ville": "Cotonou",
+    "contact": "COFFI Léonce",
+    "tel": "97584759"
+  },
+  {
+    "nom": "Les Jus TILLOU",
+    "ville": "Allada",
+    "contact": "GUEDEGBE Bertlle",
+    "tel": "97020476"
+  },
+  {
+    "nom": "LHEDIEM",
+    "ville": "Cotonou",
+    "contact": "GAGUI Philippe",
+    "tel": "66300299"
+  },
+  {
+    "nom": "MAGUELO Sarl",
+    "ville": "Cotonou",
+    "contact": "AGUESSI Marius",
+    "tel": "97098868"
+  },
+  {
+    "nom": "MBS",
+    "ville": "Tori",
+    "contact": "HOUNDEKPONDJI Germain",
+    "tel": "67681297"
+  },
+  {
+    "nom": "Méca Béton Services",
+    "ville": "Houndomè",
+    "contact": "HOUNDEKPONDJI Germain",
+    "tel": ""
+  },
+  {
+    "nom": "Mega- Prestation",
+    "ville": "Cotonou",
+    "contact": "KOUZANGNAN Eustache",
+    "tel": "95982088"
+  },
+  {
+    "nom": "MEWE-TRANS",
+    "ville": "Godomey",
+    "contact": "ALIHA Laurent",
+    "tel": "94924373"
+  },
+  {
+    "nom": "MIG MOTORS ",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "MISS FRIGO et Fils",
+    "ville": "Cotonou",
+    "contact": "M. Tito",
+    "tel": "97166665"
+  },
+  {
+    "nom": "MISS FRIGO et Fils",
+    "ville": "Mènontin",
+    "contact": "TITO MISSOH",
+    "tel": "97847350"
+  },
+  {
+    "nom": "Multi-Marques",
+    "ville": "Aïbatin",
+    "contact": "GLELI Grégoire",
+    "tel": "97987297"
+  },
+  {
+    "nom": "NOCIBE",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "NOCIBE",
+    "ville": "Massè",
+    "contact": "NIANG Ousmane",
+    "tel": "21315513"
+  },
+  {
+    "nom": "ONG ADESTI",
+    "ville": "Cotonou",
+    "contact": "ABALLO Patrice",
+    "tel": "21304106"
+  },
+  {
+    "nom": "ORTB",
+    "ville": "Parakou",
+    "contact": "ZANMENOU Hervé",
+    "tel": "87336237"
+  },
+  {
+    "nom": "ORTB",
+    "ville": "Parakou",
+    "contact": "ZANMENOU Hervé",
+    "tel": "97336237"
+  },
+  {
+    "nom": "Particulier",
+    "ville": "Zogbohouè",
+    "contact": "GNIMAVO Cédrie",
+    "tel": "66510465"
+  },
+  {
+    "nom": "Pro Service Auto",
+    "ville": "Abomey-Calavi",
+    "contact": "GOUETI Sylvain",
+    "tel": "97941339"
+  },
+  {
+    "nom": "QOTTO",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "Rebobilage Industriel",
+    "ville": "Porto-Novo",
+    "contact": "SISSINTO Jean Bosco",
+    "tel": "97835869"
+  },
+  {
+    "nom": "Rembobinage Industriel",
+    "ville": "Porto-Novo",
+    "contact": "SISSINTO Jean Bosco",
+    "tel": "97835869"
+  },
+  {
+    "nom": "RIM-Services",
+    "ville": "Cotonou",
+    "contact": "AGBOTON Florent",
+    "tel": "95928420"
+  },
+  {
+    "nom": "RMED",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "RMED",
+    "ville": "Lokossa",
+    "contact": "AÏSSAN Jean Marie",
+    "tel": "95814568  62259700"
+  },
+  {
+    "nom": "SADSOUND Electrotech BTP",
+    "ville": "Abomey-Calavi",
+    "contact": "SETONDJI Alphonse",
+    "tel": "96818156"
+  },
+  {
+    "nom": "SBEE",
+    "ville": "Cotonou",
+    "contact": "TOBOSSI Hippolyte",
+    "tel": "95607962"
+  },
+  {
+    "nom": "SBEE",
+    "ville": "Cotonou",
+    "contact": "SOUDE Fortuné",
+    "tel": "67894263"
+  },
+  {
+    "nom": "SBEE",
+    "ville": "Cotonou",
+    "contact": "PARADIS Jacques",
+    "tel": "21312145"
+  },
+  {
+    "nom": "SBS-SA",
+    "ville": "PK14",
+    "contact": "AKADIRI Flora",
+    "tel": "61100303  61100404"
+  },
+  {
+    "nom": "SCB-Lafarge",
+    "ville": "Onigbolo",
+    "contact": "CAPO-CHICHI Gildas",
+    "tel": "95654173"
+  },
+  {
+    "nom": "SCB-Lafarge",
+    "ville": "Onigbolo",
+    "contact": "OYEKAN Dominique",
+    "tel": "97099662"
+  },
+  {
+    "nom": "SCB-Lafarge",
+    "ville": "Porto-Novo",
+    "contact": "K. Marc",
+    "tel": "95969123"
+  },
+  {
+    "nom": "Schekinar Connect",
+    "ville": "Parakou",
+    "contact": "BABONI Thomas",
+    "tel": "97519626"
+  },
+  {
+    "nom": "SEEPEG Sarl",
+    "ville": "Calavi",
+    "contact": "NATHANIELS Dirk",
+    "tel": "95848250  96537318"
+  },
+  {
+    "nom": "SEL-Bénin",
+    "ville": "Calavi",
+    "contact": "SOGBEGNON Pierre",
+    "tel": "96001300"
+  },
+  {
+    "nom": "SHB-Bénin",
+    "ville": "Bohicon",
+    "contact": "ALLOGNON Innocent",
+    "tel": "97689259"
+  },
+  {
+    "nom": "SIAB",
+    "ville": "Sèmè-Kpodji",
+    "contact": "HOUANGNI Symphorien",
+    "tel": "21240050  20240052"
+  },
+  {
+    "nom": "SIAB",
+    "ville": "Sèmè-Kpodji",
+    "contact": "HOUANGNI Symphorien",
+    "tel": "21240090"
+  },
+  {
+    "nom": "SIAB",
+    "ville": "Sèmè-Kpodji",
+    "contact": "HOUANGNI Symphorien",
+    "tel": "94467070"
+  },
+  {
+    "nom": "SIAB",
+    "ville": "Sèmè-Kpodji",
+    "contact": "HOUANGNI Symphorien",
+    "tel": "21240050  20240052"
+  },
+  {
+    "nom": "SIAB",
+    "ville": "DjeffaPk16",
+    "contact": "HOUANGNI Symphorien",
+    "tel": "20240050"
+  },
+  {
+    "nom": "SITEX",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "SMT BENIN",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "SOBEBRA",
+    "ville": "Cotonou",
+    "contact": "M.GNANSOUNOU",
+    "tel": "97974661"
+  },
+  {
+    "nom": "SOBEBRA",
+    "ville": "Cotonou",
+    "contact": "KANHONOU Sabin",
+    "tel": "97974661  97974662"
+  },
+  {
+    "nom": "Société CECOA",
+    "ville": "Godomey",
+    "contact": "MADOUGOU",
+    "tel": "65021547"
+  },
+  {
+    "nom": "Solution Plus",
+    "ville": "Calavi",
+    "contact": "OWA Kévin",
+    "tel": "96295452"
+  },
+  {
+    "nom": "SONEB",
+    "ville": "Calavi",
+    "contact": "DANSOU Camille",
+    "tel": "21316258  21312272"
+  },
+  {
+    "nom": "SONEB",
+    "ville": "Cotonou",
+    "contact": "ZINSOU Josias",
+    "tel": "21312272  21311108"
+  },
+  {
+    "nom": "SONEB",
+    "ville": "Cotonou",
+    "contact": "ZINSOU Josias",
+    "tel": "21316258  21312272"
+  },
+  {
+    "nom": "Songhaï",
+    "ville": "Porto-Novo",
+    "contact": "NZAMUJO Godfrey",
+    "tel": "20246092"
+  },
+  {
+    "nom": "Songhaï",
+    "ville": "Porto-Novo",
+    "contact": "DEGBOE Yannick",
+    "tel": "60610032"
+  },
+  {
+    "nom": "SOTIBE",
+    "ville": "Gbetago",
+    "contact": "MONTEIRO Gilles",
+    "tel": "97681160"
+  },
+  {
+    "nom": "SOTIBE",
+    "ville": "Gbetago",
+    "contact": "MONTEIRO Gilles",
+    "tel": "97681160"
+  },
+  {
+    "nom": "SOTIBE",
+    "ville": "Calavi",
+    "contact": "MONTEIRO Gilles",
+    "tel": "97681160"
+  },
+  {
+    "nom": "Ste Garage Americain Sarl",
+    "ville": "Godomey",
+    "contact": "ISSAKA Assakpa",
+    "tel": "97751238"
+  },
+  {
+    "nom": "STEM",
+    "ville": "",
+    "contact": "",
+    "tel": ""
+  },
+  {
+    "nom": "STEM",
+    "ville": "Akpakpa",
+    "contact": "",
+    "tel": "21333806  63030130"
+  },
+  {
+    "nom": "STEM",
+    "ville": "Cotonou",
+    "contact": "M. da Costa",
+    "tel": "21333806"
+  },
+  {
+    "nom": "STERB",
+    "ville": "Cotonou",
+    "contact": "VETOSSEHO Jerôme",
+    "tel": "96304596"
+  },
+  {
+    "nom": "STRIA",
+    "ville": "Cotonou",
+    "contact": "AGBODRIKOU Honoré",
+    "tel": "97706646"
+  },
+  {
+    "nom": "STRIA",
+    "ville": "Cotonou",
+    "contact": "AGBORRIKOU Honoré",
+    "tel": "97706646"
+  },
+  {
+    "nom": "VORTEX-Service",
+    "ville": "Abomey-Calavi",
+    "contact": "N'NOSE Joseph",
+    "tel": "96022621"
+  },
+  {
+    "nom": "VORTEX-Service",
+    "ville": "Abomey-Calavi",
+    "contact": "N'NOSE Joseph",
+    "tel": "96022621"
+  },
+  {
+    "nom": "WEWE-TRANS",
+    "ville": "Cotonou",
+    "contact": "ALIHA Laurent",
+    "tel": "61781186"
+  },
+  {
+    "nom": "WIFI Sarl",
+    "ville": "Cotonou",
+    "contact": "ATTIBA P.",
+    "tel": "95049669"
+  },
+  {
+    "nom": "WJGET",
+    "ville": "Ouèdo",
+    "contact": "MEVOGNON Joseph",
+    "tel": "97489225"
+  },
+  {
+    "nom": "WJGET",
+    "ville": "Tankpè",
+    "contact": "MEVOGNON Joseph",
+    "tel": "97489225"
+  }
+]
